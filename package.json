@@ -1,6 +1,6 @@
 {
   "name": "coffeelint-forbidden-keywords",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "A CoffeeLint rule that forbids specified keywords",
   "main": "index.js",
   "keywords": [
@@ -32,7 +32,7 @@
   "peerDependencies": {
     "coffeelint": ">=1.4"
   },
-  "devDependencies": {
-    "coffee-script": "~1.7.0"
+  "dependencies": {
+    "coffeescript": "^2.1.0"
   }
 }
