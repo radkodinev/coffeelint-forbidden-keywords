@@ -22,7 +22,7 @@
     "url": "https://github.com/benchling/coffeelint-forbidden-keywords/issues"
   },
   "engines": {
-    "node": ">= 8"
+    "node": ">= 12"
   },
   "homepage": "https://github.com/benchling/coffeelint-forbidden-keywords",
   "repository": {
@@ -30,9 +30,9 @@
     "url": "https://github.com/benchling/coffeelint-forbidden-keywords"
   },
   "peerDependencies": {
-    "coffeelint": ">=1.4"
+    "coffeelint": "^5.0.0"
   },
   "dependencies": {
-    "coffeescript": "^2.1.0"
+    "coffeescript": "^2.5.0"
   }
 }
